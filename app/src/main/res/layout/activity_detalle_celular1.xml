@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/fondos"
+    tools:context=".DetalleCelular1">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="iPhone 14 Pro Max"
+        android:layout_gravity="center"
+        android:textSize="23sp"
+        android:textStyle="bold"
+        android:layout_marginBottom="20dp"
+        android:layout_marginTop="50dp"/>
+
+    <ImageView
+
+        android:layout_width="300dp"
+        android:layout_height="250dp"
+        android:layout_gravity="center"
+        android:layout_marginBottom="30dp"
+        app:srcCompat="@drawable/celular1" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="30dp"
+        android:layout_gravity="center"
+        android:text="CARACTERISTICAS"
+        android:textColor="#000000"
+        android:textSize="23sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Capacidad:128 GB 256 GB 512 GB 1TB
+        Dimensiones y peso:  Ancho: 7,76 cm Alto: 16,07cm Grosor: 0,78 cm Peso: 240g Pantalla: Super Retina XDR Pantalla OLED de 6,7 pulgadas (17 cm)
+        en diagonal Camara principal:48 Mpx: 24 mm, Ultra gran angular de 12 Mpx,conexion inalambrica
+        bluethooth, Sistema operativo:macOS Catalina 10.15 o posterior con el Finder De macOS El Capitan 10.11.6 a macOS Mojave 10.14.6 con iTunes 12.8 o posterior Windows 7 o posterior con iTunes 12.10.10 o posterior"
+        android:textSize="15sp"
+        android:textColor="#000000"
+        android:textStyle="bold"
+        android:paddingStart="18dp"
+        android:paddingEnd="18dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginBottom="8dp">
+    </TextView>
+    <Button
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:text="REGRESAR"
+        android:layout_gravity="center"
+        android:background="#755ABB"
+        android:textSize="20sp"
+        android:textColor="@color/white"
+        android:textStyle="bold"
+        android:layout_marginTop="20dp"
+        android:onClick="RegresarCelular1"/>
+
+</LinearLayout>

@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.parcial3">
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.AppCompat.Light.NoActionBar"
+        tools:targetApi="31">
+        <activity
+            android:name=".DetalleAccesorios12"
+            android:exported="false" />
+        <activity
+            android:name=".DetalleAccesorios11"
+            android:exported="false" />
+        <activity
+            android:name=".DetalleAccesorios10"
+            android:exported="false" />
+        <activity
+            android:name=".DetalleAccesorios9"
+            android:exported="false" />
+        <activity
+            android:name=".DetalleAccesorios8"
+            android:exported="false" />
+        <activity
+            android:name=".DetalleAccesorios7"
+            android:exported="false" />
+        <activity
+            android:name=".DetalleAccesorios6"
+            android:exported="false" />
+        <activity
+            android:name=".DetalleAccesorios5"
+            android:exported="false" />
+        <activity
+            android:name=".DetalleAccesorios4"
+            android:exported="false" />
+        <activity
+            android:name=".DetalleAccesorios3"
+            android:exported="false" />
+        <activity
+            android:name=".DetalleAccesorios2"
+            android:exported="false" />
+        <activity
+            android:name=".DetalleAccesorios1"
+            android:exported="false" />
+        <activity
+            android:name=".DetalleCelular7"
+            android:exported="false" />
+        <activity
+            android:name=".DetalleCelular6"
+            android:exported="false" />
+        <activity
+            android:name=".DetalleCelular5"
+            android:exported="false" />
+        <activity
+            android:name=".DetalleCelular4"
+            android:exported="false" />
+        <activity
+            android:name=".DetalleCelular3"
+            android:exported="false" />
+        <activity
+            android:name=".DetalleCelular2"
+            android:exported="false" />
+        <activity
+            android:name=".DetalleCelular1"
+            android:exported="false" />
+        <activity
+            android:name=".DetallePortatil8"
+            android:exported="false" />
+        <activity
+            android:name=".DetallePortatil7"
+            android:exported="false" />
+        <activity
+            android:name=".DetallePortatil6"
+            android:exported="false" />
+        <activity
+            android:name=".DetallePortatil5"
+            android:exported="false" />
+        <activity
+            android:name=".DetallePortatil4"
+            android:exported="false" />
+        <activity
+            android:name=".DetallePortatil3"
+            android:exported="false" />
+        <activity
+            android:name=".DetallePortatil2"
+            android:exported="false" />
+        <activity
+            android:name=".DetallePortatil1"
+            android:exported="false" />
+        <activity
+            android:name=".DetalleEscritorio10"
+            android:exported="false" />
+        <activity
+            android:name=".DetalleEscritorio9"
+            android:exported="false" />
+        <activity
+            android:name=".DetalleEscritorio8"
+            android:exported="false" />
+        <activity
+            android:name=".DetalleEscritorio7"
+            android:exported="false" />
+        <activity
+            android:name=".DetalleEscritorio6"
+            android:exported="false" />
+        <activity
+            android:name=".DetalleEscritorio5"
+            android:exported="false" />
+        <activity
+            android:name=".DetalleEscritorio4"
+            android:exported="false" />
+        <activity
+            android:name=".DetalleEscritorio3"
+            android:exported="false" />
+        <activity
+            android:name=".DetallesEscritorio2"
+            android:exported="false" />
+        <activity
+            android:name=".DetallesEscritorio1"
+            android:exported="false" />
+        <activity
+            android:name=".Menu"
+            android:exported="false" />
+        <activity
+            android:name=".Next"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

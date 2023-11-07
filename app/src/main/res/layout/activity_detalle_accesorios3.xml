@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/fondito"
+    tools:context=".DetalleAccesorios3">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="DIADEMA y MOUSE G305"
+        android:layout_gravity="center"
+        android:textSize="23sp"
+        android:textStyle="bold"
+        android:layout_marginBottom="20dp"
+        android:layout_marginTop="50dp"/>
+
+    <ImageView
+
+        android:layout_width="300dp"
+        android:layout_height="250dp"
+        android:layout_gravity="center"
+        android:layout_marginBottom="30dp"
+        app:srcCompat="@drawable/accessorios3" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="30dp"
+        android:layout_gravity="center"
+        android:text="CARACTERISTICAS"
+        android:textColor="#000000"
+        android:textSize="23sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Controladores De Audio: 40mm Respuesta De Frecuencia: 20Hz - 20KHz Tiempo De Juego: 18 horas. Puerto De Carga: USB Cable De Carga: USB-A a USB-C Resolución: 200 a 12.000 ppp Interfaz: USB con cable  Velocidad De Transmisión USB: 1000 Hz (1 ms). Botones: 6 botones programables Compatibilidad: Windows 7 o posterior, MacOS 10:11 o posteriores, Chrome OS.
+        "
+        android:textSize="15sp"
+        android:textColor="#000000"
+        android:textStyle="bold"
+        android:paddingStart="18dp"
+        android:paddingEnd="18dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginBottom="8dp">
+    </TextView>
+    <Button
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:text="REGRESAR"
+        android:layout_gravity="center"
+        android:background="#755ABB"
+        android:textSize="20sp"
+        android:textColor="@color/white"
+        android:textStyle="bold"
+        android:layout_marginTop="20dp"
+        android:onClick="RegresarAccesorios3"/>
+
+</LinearLayout>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/fondito"
+    tools:context=".DetalleAccesorios11">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="DRONE DJ"
+        android:layout_gravity="center"
+        android:textSize="23sp"
+        android:textStyle="bold"
+        android:layout_marginBottom="20dp"
+        android:layout_marginTop="50dp"/>
+
+    <ImageView
+
+        android:layout_width="300dp"
+        android:layout_height="250dp"
+        android:layout_gravity="center"
+        android:layout_marginBottom="30dp"
+        app:srcCompat="@drawable/accessorios11" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="30dp"
+        android:layout_gravity="center"
+        android:text="CARACTERISTICAS"
+        android:textColor="#000000"
+        android:textSize="23sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Drone Dji Mini 3 Combo Plus. Solo vuela. DJI Mini 3 es un dron con cámara compacto y ultraligero creado para la aventura. Cuenta con batería de mayor duración, video 4K HDR rico en detalles y funciones divertidas como True Vertical Shooting para tomas optimizadas para redes sociales. Con un peso inferior a 249 gr ofrece una autonomía de 38 minutos (batería estandar) 51 minutos (batería plus).  Fotografía de 12 mpx y video 4K a 30 fps. Incluye: Drone Mini 3, Control RC-N1, 1 batería estandar y 2 baterías plus, Hub de carga, par de hélices de repuesto, Cable tipo C a tipo C, protector de gimbal y maletín de transporte"
+        android:textSize="15sp"
+        android:textColor="#000000"
+        android:textStyle="bold"
+        android:paddingStart="18dp"
+        android:paddingEnd="18dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginBottom="8dp">
+    </TextView>
+    <Button
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:text="REGRESAR"
+        android:layout_gravity="center"
+        android:background="#755ABB"
+        android:textSize="20sp"
+        android:textColor="@color/white"
+        android:textStyle="bold"
+        android:layout_marginTop="20dp"
+        android:onClick="RegresarAccesorios11"/>
+
+</LinearLayout>

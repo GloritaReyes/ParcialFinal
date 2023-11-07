@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/fondos"
+    tools:context=".DetalleCelular6">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Sony Xperia 1 Mark"
+        android:layout_gravity="center"
+        android:textSize="23sp"
+        android:textStyle="bold"
+        android:layout_marginBottom="20dp"
+        android:layout_marginTop="50dp"/>
+
+    <ImageView
+
+        android:layout_width="300dp"
+        android:layout_height="250dp"
+        android:layout_gravity="center"
+        android:layout_marginBottom="30dp"
+        app:srcCompat="@drawable/celular6" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="30dp"
+        android:layout_gravity="center"
+        android:text="CARACTERISTICAS"
+        android:textColor="#000000"
+        android:textSize="23sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="Grabación de video 4K HDR nativa de 120 fps [1] en todas las lentes traseras [2] Zoom óptico real de 3.346-4.921 in/0.630 in/0.945 in lentes con 20fps HDR AF/AE Seguimiento de ojos y objetos en tiempo real para fotos/video (todas las lentes traseras) Pantalla ancha OLED 21:9 de 6.5 pulgadas 4K 120Hz más brillante [3] Transmisión en vivo integrada para videógrafos[4] y jugadores móviles"
+        android:textSize="15sp"
+        android:textColor="#000000"
+        android:textStyle="bold"
+        android:paddingStart="16dp"
+        android:paddingEnd="16dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginBottom="8dp">
+    </TextView>
+    <Button
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:text="REGRESAR"
+        android:layout_gravity="center"
+        android:background="#755ABB"
+        android:textSize="20sp"
+        android:textColor="@color/white"
+        android:textStyle="bold"
+        android:layout_marginTop="20dp"
+        android:onClick="RegresarCelular6"/>
+
+</LinearLayout>
