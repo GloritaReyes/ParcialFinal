@@ -36,20 +36,40 @@
         android:textSize="23sp"
         android:textStyle="bold" />
 
-    <TextView
-        android:layout_width="wrap_content"
+    <LinearLayout
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_gravity="center"
-        android:text="HD capacity 250 GB Ram memory: 4 GB
+        android:orientation="horizontal"
+        >
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="top"
+            android:text="HD capacity: "
+            android:textSize="15sp"
+            android:textColor="#000000"
+            android:textStyle="bold"
+            android:paddingStart="16dp"
+            android:paddingEnd="16dp"
+            android:layout_marginTop="8dp"
+            android:layout_marginBottom="8dp">
+        </TextView>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="top"
+            android:text="250 GB Ram memory: 4 GB
         Processor:Dual Core OS:Windows 10 Home Premium Proc. speed: 2.13 GHz Brand: HP"
-        android:textSize="15sp"
-        android:textColor="#000000"
-        android:textStyle="bold"
-        android:paddingStart="16dp"
-        android:paddingEnd="16dp"
-        android:layout_marginTop="8dp"
-        android:layout_marginBottom="8dp">
-    </TextView>
+            android:textSize="15sp"
+            android:textColor="#000000"
+            android:paddingStart="16dp"
+            android:paddingEnd="16dp"
+            android:layout_marginTop="8dp"
+            android:layout_marginBottom="8dp">
+        </TextView>
+    </LinearLayout>
+
+
     <Button
         android:layout_width="250dp"
         android:layout_height="wrap_content"
@@ -58,7 +78,6 @@
         android:background="#755ABB"
         android:textSize="20sp"
         android:textColor="@color/white"
-        android:textStyle="bold"
         android:layout_marginTop="20dp"
         android:onClick="RegresarEscritorio2"/>
 
