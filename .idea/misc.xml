@@ -3,11 +3,47 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="app/src/main/res/layout/activity_detalles_escritorio2.xml" value="0.1" />
+        <entry key="..\:/Users/reyes/Desktop/Nueva carpeta/ParcialFinal/app/src/main/res/layout/activity_account.xml" value="0.7320754716981132" />
+        <entry key="..\:/Users/reyes/Desktop/Nueva carpeta/ParcialFinal/app/src/main/res/layout/activity_detalle_accesorios1.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/reyes/Desktop/Nueva carpeta/ParcialFinal/app/src/main/res/layout/activity_detalle_accesorios10.xml" value="0.17979610750695088" />
+        <entry key="..\:/Users/reyes/Desktop/Nueva carpeta/ParcialFinal/app/src/main/res/layout/activity_detalle_accesorios11.xml" value="0.17979610750695088" />
+        <entry key="..\:/Users/reyes/Desktop/Nueva carpeta/ParcialFinal/app/src/main/res/layout/activity_detalle_accesorios12.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/reyes/Desktop/Nueva carpeta/ParcialFinal/app/src/main/res/layout/activity_detalle_accesorios2.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/reyes/Desktop/Nueva carpeta/ParcialFinal/app/src/main/res/layout/activity_detalle_accesorios3.xml" value="0.17979610750695088" />
+        <entry key="..\:/Users/reyes/Desktop/Nueva carpeta/ParcialFinal/app/src/main/res/layout/activity_detalle_accesorios4.xml" value="0.17979610750695088" />
+        <entry key="..\:/Users/reyes/Desktop/Nueva carpeta/ParcialFinal/app/src/main/res/layout/activity_detalle_accesorios5.xml" value="0.17979610750695088" />
+        <entry key="..\:/Users/reyes/Desktop/Nueva carpeta/ParcialFinal/app/src/main/res/layout/activity_detalle_accesorios6.xml" value="0.17979610750695088" />
+        <entry key="..\:/Users/reyes/Desktop/Nueva carpeta/ParcialFinal/app/src/main/res/layout/activity_detalle_accesorios7.xml" value="0.16" />
+        <entry key="..\:/Users/reyes/Desktop/Nueva carpeta/ParcialFinal/app/src/main/res/layout/activity_detalle_accesorios8.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/reyes/Desktop/Nueva carpeta/ParcialFinal/app/src/main/res/layout/activity_detalle_accesorios9.xml" value="0.17979610750695088" />
+        <entry key="..\:/Users/reyes/Desktop/Nueva carpeta/ParcialFinal/app/src/main/res/layout/activity_detalle_celular1.xml" value="0.17979610750695088" />
+        <entry key="..\:/Users/reyes/Desktop/Nueva carpeta/ParcialFinal/app/src/main/res/layout/activity_detalle_celular2.xml" value="0.24619289340101522" />
+        <entry key="..\:/Users/reyes/Desktop/Nueva carpeta/ParcialFinal/app/src/main/res/layout/activity_detalle_celular3.xml" value="0.16" />
+        <entry key="..\:/Users/reyes/Desktop/Nueva carpeta/ParcialFinal/app/src/main/res/layout/activity_detalle_celular4.xml" value="0.18" />
+        <entry key="..\:/Users/reyes/Desktop/Nueva carpeta/ParcialFinal/app/src/main/res/layout/activity_detalle_celular5.xml" value="0.17979610750695088" />
+        <entry key="..\:/Users/reyes/Desktop/Nueva carpeta/ParcialFinal/app/src/main/res/layout/activity_detalle_celular6.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/reyes/Desktop/Nueva carpeta/ParcialFinal/app/src/main/res/layout/activity_detalle_celular7.xml" value="0.17979610750695088" />
+        <entry key="..\:/Users/reyes/Desktop/Nueva carpeta/ParcialFinal/app/src/main/res/layout/activity_detalle_escritorio10.xml" value="0.18" />
+        <entry key="..\:/Users/reyes/Desktop/Nueva carpeta/ParcialFinal/app/src/main/res/layout/activity_detalle_escritorio3.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/reyes/Desktop/Nueva carpeta/ParcialFinal/app/src/main/res/layout/activity_detalle_escritorio4.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/reyes/Desktop/Nueva carpeta/ParcialFinal/app/src/main/res/layout/activity_detalle_escritorio5.xml" value="0.17979610750695088" />
+        <entry key="..\:/Users/reyes/Desktop/Nueva carpeta/ParcialFinal/app/src/main/res/layout/activity_detalle_escritorio6.xml" value="0.24619289340101522" />
+        <entry key="..\:/Users/reyes/Desktop/Nueva carpeta/ParcialFinal/app/src/main/res/layout/activity_detalle_escritorio7.xml" value="0.24619289340101522" />
+        <entry key="..\:/Users/reyes/Desktop/Nueva carpeta/ParcialFinal/app/src/main/res/layout/activity_detalle_escritorio8.xml" value="0.24619289340101522" />
+        <entry key="..\:/Users/reyes/Desktop/Nueva carpeta/ParcialFinal/app/src/main/res/layout/activity_detalle_escritorio9.xml" value="0.24619289340101522" />
+        <entry key="..\:/Users/reyes/Desktop/Nueva carpeta/ParcialFinal/app/src/main/res/layout/activity_detalle_portatil1.xml" value="0.24619289340101522" />
+        <entry key="..\:/Users/reyes/Desktop/Nueva carpeta/ParcialFinal/app/src/main/res/layout/activity_detalle_portatil2.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/reyes/Desktop/Nueva carpeta/ParcialFinal/app/src/main/res/layout/activity_detalle_portatil3.xml" value="0.17962962962962964" />
+        <entry key="..\:/Users/reyes/Desktop/Nueva carpeta/ParcialFinal/app/src/main/res/layout/activity_detalle_portatil4.xml" value="0.24619289340101522" />
+        <entry key="..\:/Users/reyes/Desktop/Nueva carpeta/ParcialFinal/app/src/main/res/layout/activity_detalle_portatil5.xml" value="0.24619289340101522" />
+        <entry key="..\:/Users/reyes/Desktop/Nueva carpeta/ParcialFinal/app/src/main/res/layout/activity_detalle_portatil6.xml" value="0.24619289340101522" />
+        <entry key="..\:/Users/reyes/Desktop/Nueva carpeta/ParcialFinal/app/src/main/res/layout/activity_detalle_portatil7.xml" value="0.24619289340101522" />
+        <entry key="..\:/Users/reyes/Desktop/Nueva carpeta/ParcialFinal/app/src/main/res/layout/activity_detalle_portatil8.xml" value="0.24619289340101522" />
+        <entry key="..\:/Users/reyes/Desktop/Nueva carpeta/ParcialFinal/app/src/main/res/layout/activity_detalles.xml" value="0.14" />
+        <entry key="..\:/Users/reyes/Desktop/Nueva carpeta/ParcialFinal/app/src/main/res/layout/activity_detalles_escritorio2.xml" value="0.24619289340101522" />
       </map>
     </option>
   </component>
-  <component name="ExternalStorageConfigurationManager" enabled="true" />
   <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="11" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
   </component>
